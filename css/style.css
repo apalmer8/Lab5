@@ -15,13 +15,13 @@ body {
   align-items:center;
   align-content: center;
   margin-top: 20px;
-  background-image: media/SolarSystem.png;
+  background-image: url("/media/SolarSystem.png");
   Background-color: #FFFFFF;
   background-size: cover;
   color: white;
   font-weight: 100
 }
-thead,  {
+thead, th {
   border-radius: 5px;
   background-color: #800000;
   border-style: inset;
